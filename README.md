@@ -12,7 +12,7 @@
 - Download or clone the repository Website : 
 
 ```
-https://github.com/ManthanUgemuge/TipCalculator.git
+https://github.com/ManthanUgemuge/MusicWebApp.git
 ```
 Run Directly here - [TipCalculator](https://manthanugemuge.github.io/TipCalculator/)
 
