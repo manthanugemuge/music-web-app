@@ -14,7 +14,7 @@
 ```
 https://github.com/ManthanUgemuge/MusicWebApp.git
 ```
-Run Directly here - [TipCalculator](https://manthanugemuge.github.io/TipCalculator/)
+Run Directly here - [MusicWebApp](https://manthanugemuge.github.io/TipCalculator/)
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
