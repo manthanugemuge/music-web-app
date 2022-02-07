@@ -1,4 +1,5 @@
 # MusicWebApp
+A Simple Web Application to create music with just One Tap.
 Tap Music - Create music with just One Tap.
 
 ## Tech Stacks Used :
