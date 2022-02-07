@@ -1,4 +1,5 @@
 # MusicWebApp
+Tap Music - Create music with just One Tap.
 
 ## Tech Stacks Used :
 
