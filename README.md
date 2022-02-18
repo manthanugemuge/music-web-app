@@ -13,7 +13,8 @@ Tap Music - Create music with just One Tap.
 
 - Download or clone the repository Website : 
 
-```https://github.com/ManthanUgemuge/MusicWebApp.git
+```
+https://github.com/ManthanUgemuge/MusicWebApp.git
 ```
 Run Directly here - [MusicWebApp](https://manthanugemuge.github.io/MusicWebApp/)
 
