@@ -1,4 +1,4 @@
-# MusicWebApp
+# Tap Music Web App
 A Simple Web Application to create music with just One Click. </br>
 Tap Music - Create music with just One Tap.
 
