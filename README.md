@@ -15,7 +15,7 @@ Tap Music - Create music with just One Tap.
 ```
 https://github.com/ManthanUgemuge/MusicWebApp.git
 ```
-Run Directly here - [Live](https://manthanugemuge.github.io/MusicWebApp/)//Download()
+Run Directly here - [Live](https://manthanugemuge.github.io/MusicWebApp/)//[Download](https://github.com/ManthanUgemuge/MusicWebApp/archive/refs/heads/main.zip)
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
