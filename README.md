@@ -8,12 +8,11 @@ Tap Music - Create music with just One Tap.
 <a target="_blank" href="https://www.w3schools.com/css/default.asp"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></img></a>
 <a target="_blank" href="https://www.w3schools.com/js/default.asp"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></img></a>
 
-
 ## How to use Project
 
 - Download or clone the repository Website : 
 ```
-https://github.com/ManthanUgemuge/music-web-app.git
+https://github.com/manthanugemuge/music-web-app.git
 ```
 Run Directly here - [Live](https://manthanugemuge.github.io/music-web-app/)//[Download](https://github.com/ManthanUgemuge/MusicWebApp/archive/refs/heads/main.zip)
 
